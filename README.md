@@ -1,2 +1,2 @@
 # hello-world
-Oh boy, it's another one of these.
+Oh boy; it's another one of these.
